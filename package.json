@@ -1,0 +1,25 @@
+{
+  "name": "nodeirc",
+  "version": "1.0.0",
+  "description": "NodeIRC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denizariyan/NodeIRC.git"
+  },
+  "author": "denizariyan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/denizariyan/NodeIRC/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4",
+    "socket.io": "^2.0.4"
+  },
+  "homepage": "https://github.com/denizariyan/NodeIRC#readme"
+}
